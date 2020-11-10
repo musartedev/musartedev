@@ -1,4 +1,4 @@
-![Mariangelica](https://s3-us-east-2.amazonaws.com/musarte-blog/2020/07/Group-1--2-.png)
+![Musartedev](https://musarte-blog.s3.us-east-2.amazonaws.com/2020/07/Musartedev.png)
 ---
 ✨ Hi there, thanks for following my work!
 
